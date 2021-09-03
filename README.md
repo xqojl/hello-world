@@ -1,2 +1,3 @@
 # hello-world
-just a new repository
+Hi everyone!
+I am a new guy for studying github. I like cat, expecily snowy cat.
